@@ -1,5 +1,5 @@
 # VoLTE-enabler-for-Asus-Rog2🍉
-This module enables the VoLTE &amp; VoWiFi &amp; options by editing build.prop.
+This module enables the VoLTE &amp; VoWiFi &amp; options for Asus Rog Phone 2 by editing build.prop.
 
 ## What does this module change?
     persist.data.iwlan=1
@@ -35,7 +35,7 @@ This module enables the VoLTE &amp; VoWiFi &amp; options by editing build.prop.
     ro.telephony.default_cdma_sub=0
     
 ## Dependencies
-Use latest ([Magisk](https://magiskmanager.com/))
+Use latest [Magisk](https://magiskmanager.com/)
 
 ## How to use?
  - flash this with magisk
