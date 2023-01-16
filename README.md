@@ -44,7 +44,7 @@ Use the latest [Magisk](https://magiskmanager.com/) manager
 ## Before 
 ![](https://github.com/Nayemhasan/VoLTE-enabler-for-Asus-Rog2/blob/main/pics/before.jpg)
 
-##After
+## After
 ![](https://github.com/Nayemhasan/VoLTE-enabler-for-Asus-Rog2/blob/main/pics/after.jpg)
 
 # Thank You🍉
