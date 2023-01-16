@@ -35,7 +35,7 @@ This module enables the VoLTE &amp; VoWiFi &amp; options by editing build.prop.
     ro.telephony.default_cdma_sub=0
     
 ## Dependencies
-Use latest [Magisk]([Link text Here](https://link-url-here.org))
+Use latest ([Magisk](https://magiskmanager.com/))
 
 ## How to use?
  - flash this with magisk
