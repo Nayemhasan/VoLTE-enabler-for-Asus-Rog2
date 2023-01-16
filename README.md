@@ -47,5 +47,8 @@ Use the latest [Magisk](https://magiskmanager.com/) manager
 ## After
 ![](https://github.com/Nayemhasan/VoLTE-enabler-for-Asus-Rog2/blob/main/pics/after.jpg)
 
+## Bonus
+Now you can use 4G Dual* Sim mode too😉
+
 # Thank You🍉
 > **Note:** if you have any question or suggestion mail me @**nayemhassan421123@gmail.com** 
