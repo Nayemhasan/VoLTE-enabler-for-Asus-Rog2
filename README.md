@@ -1,8 +1,6 @@
 # VoLTE-enabler-for-Asus-Rog2🍉
 This module enables the VoLTE &amp; VoWiFi &amp; options by editing build.prop.
 
-Predicting heart failure event using ML.
-
 ## What does this module change?
     persist.data.iwlan=1
     persist.data.iwlan.enable=true
@@ -35,9 +33,9 @@ Predicting heart failure event using ML.
     persist.vendor.radio.redir_party_num=1
     ril.subscription.types=RUIM
     ro.telephony.default_cdma_sub=0
-
+    
 ## Dependencies
-Use latest magisk module
+Use latest [Magisk]([Link text Here](https://link-url-here.org))
 
 ## How to use?
  - flash this with magisk
@@ -49,5 +47,5 @@ Use latest magisk module
 ##After
 ![](https://github.com/Nayemhasan/VoLTE-enabler-for-Asus-Rog2/blob/main/pics/after.jpg)
 
-# Thank You🙏
+# Thank You🍉
 > **Note:** if you have any question or suggestion mail me @**nayemhassan421123@gmail.com** 
