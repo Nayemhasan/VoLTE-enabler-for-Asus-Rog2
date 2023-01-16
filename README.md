@@ -1,5 +1,5 @@
 # VoLTE-enabler-for-Asus-Rog2🍉
-This module enables the VoLTE &amp; VoWiFi options for Asus Rog Phone 2 by editing build.prop.
+This module Enables the VoLTE &amp; VoWiFi options for Asus Rog Phone 2 by editing build.prop.
 
 ## What does this module change?
     persist.data.iwlan=1
