@@ -44,14 +44,6 @@ This module Enables the VoLTE &amp; VoWiFi options for Asus Rog Phone 2 by editi
     persist.vendor.radio.mbn_wait_s=60
     persist.vendor.radio.redir_party_num=1
 
-# extas
-ril.subscription.types=RUIM
-ro.telephony.default_cdma_sub=0
-ro.nubia.nr.support=1 
-ro.telephony.default_cdma_sub=0 
-
-
-
     
 ## Dependencies
 Use the latest [Magisk](https://magiskmanager.com/) manager
