@@ -2,6 +2,7 @@
 This module Enables the VoLTE &amp; VoWiFi options for Asus Rog Phone 2 by editing build.prop.
 
 ## What does this module change?
+# persists props
     persist.data.iwlan=1
     persist.data.iwlan.enable=true
     persist.data.iwlan.ipsec.ap=1
@@ -31,8 +32,13 @@ This module Enables the VoLTE &amp; VoWiFi options for Asus Rog Phone 2 by editi
     persist.vendor.radio.mbn_load_flag=3
     persist.vendor.radio.mbn_wait_s=60
     persist.vendor.radio.redir_party_num=1
+
+    # ril & ro props
     ril.subscription.types=RUIM
     ro.telephony.default_cdma_sub=0
+    ro.nubia.nr.support=1 
+    ro.telephony.default_cdma_sub=0 
+    ro.vendor.radio.5g=3
     
 ## Dependencies
 Use the latest [Magisk](https://magiskmanager.com/) manager
