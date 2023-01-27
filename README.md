@@ -40,21 +40,26 @@ This module Enables the VoLTE &amp; VoWiFi options for Asus Rog Phone 2 by editi
     persist.sys.strictmode.disable=true
     persist.rcs.supported=1
     
+<table>
+  <tr>
+    <td>Before</td>
+    <td>After</td>
+   </tr> 
+   <tr>
+      <td><img src="https://github.com/Nayemhasan/VoLTE-enabler-for-Asus-Rog2/blob/main/pics/before.jpg"></td>
+      <td><img src="https://github.com/Nayemhasan/VoLTE-enabler-for-Asus-Rog2/blob/main/pics/after.jpg"></td>
+  </tr>
+</table>   
+ 
 ## Dependencies
 Use the latest [Magisk](https://magiskmanager.com/) manager
 
 ## How to use?
  - flash the latest released .zip with magisk
  - reboot and profit*
-
-## Before 
-![](https://github.com/Nayemhasan/VoLTE-enabler-for-Asus-Rog2/blob/main/pics/before.jpg)
-
-## After
-![](https://github.com/Nayemhasan/VoLTE-enabler-for-Asus-Rog2/blob/main/pics/after.jpg)
-
+ 
 ## Bonus
 Now you can use 4G Dual* Sim mode too😉
 
-# Thank You🍉
-> **Note:** if you have any question or suggestion mail me @**nayemhassan421123@gmail.com** 
+## Thank You🍉
+
